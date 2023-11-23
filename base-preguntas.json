@@ -1,0 +1,132 @@
+[
+    {
+        "categoria": "Informatica",
+        "pregunta": "Las siglas \"CPU\" significan",
+        "respuesta": "Unidad central de procesamiento",
+        "incorrecta1": "Computadora con procesador central",
+        "incorrecta2": "Computador de procesador unitario",
+        "incorrecta3": "Unidad computacional unica",
+        "imagen": "https://academy.avast.com/hs-fs/hubfs/New_Avast_Academy/how_to_overclock_your_cpu_academy_refresh/Academy-How-to-Safely-Overclock-Your-CPU-on-Windows-Hero.jpg?width=1800&name=Academy-How-to-Safely-Overclock-Your-CPU-on-Windows-Hero.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Informatica",
+        "pregunta": "La opción de párrafo del programa Microsoft Word, que nos permite ordenar un texto se llama",
+        "respuesta": "Justificar",
+        "incorrecta1": "Alinear a la izquierda",
+        "incorrecta2": "Alinear a la derecha",
+        "incorrecta3": "Centrar",
+        "imagen": "https://maniqui-es.com/uploads/posts/2015/10/how-to-align-and-justify-text-in-word-2010_1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Informatica",
+        "pregunta": "El computador requiere de dos partes principales para su funcionamiento. Estas son:",
+        "respuesta": "Hardware y software",
+        "incorrecta1": "Dispositivos e Internet",
+        "incorrecta2": "Mouse y teclado",
+        "incorrecta3": "Word e impresora",
+        "imagen": "https://compulago.b-cdn.net/wp-content/uploads/erp/productos/2323%2006335136/1689431415382.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación",
+        "pregunta": "¿En qué etiqueta HTML podemos escribir código JavaScript?",
+        "respuesta": "script",
+        "incorrecta1": " javascript",
+        "incorrecta2": "js",
+        "incorrecta3": "html",
+        "imagen": "https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+ 	
+        "categoria": "Programación",
+        "pregunta": "¿Qué salida tendrá el siguiente código JavaScript? let num = \"2\" + 2; console.log(num);",
+        "respuesta":"22",
+        "incorrecta1": "2",
+        "incorrecta2": "4",
+        "incorrecta3": "8",
+        "imagen": "https://www.redeweb.com/wp-content/uploads/2021/03/software-1.jpg",
+        "objectFit": "cover"
+
+},
+
+
+    {
+        "categoria": "Programación",
+        "pregunta": "Uno de estos lenguajes es orientado a objetos. ¿Cual?",
+	    "respuesta": "Java",
+        "incorrecta1": "C++",
+        "incorrecta2": "Scratch",
+        "incorrecta3": "Php",
+        "imagen": "https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg",
+        "objectFit": "cover"
+
+},
+
+{
+        "categoria": "Programación",
+        "pregunta": "¿Que es C++?",
+	    "respuesta": "Es un lenguaje de programación",
+        "incorrecta1": "Un programa",
+        "incorrecta2": "Una aplicación",
+        "incorrecta3": "Un juego",
+        "imagen": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+        "objectFit": "cover"
+
+},
+
+{
+        "categoria": "Programación",
+        "pregunta": "¿Que es una variable?",
+	    "respuesta": " Es donde se almacenan y se recuperan los datos de un programa",
+        "incorrecta1": "Un valor de un tipo que puede ser tratado como de otro tipo",
+        "incorrecta2": "Un lenguaje",
+        "incorrecta3": "Una representación grafica",
+        "imagen": "https://blog.hubspot.es/hs-fs/hubfs/media/lenguajesprogramacion.jpeg?width=915&height=609&name=lenguajesprogramacion.jpeg",
+        "objectFit": "cover"
+
+},
+
+        {
+ 	
+        "categoria": "Informatica",
+        "pregunta": "¿Que extensión hace referencia a un procesador de texto?",
+	    "respuesta": "TXT",
+        "incorrecta1": "JPEG",
+        "incorrecta2": "PPT",
+        "incorrecta3": "PDF",
+        "imagen": "https://articles-img.sftcdn.net/f_auto,t_article_cover_xl/auto-mapping-folder/sites/2/2019/04/procesador-texto-alternativa-word-header-1.jpg",
+        "objectFit": "cover"
+
+},
+
+{
+ 	
+        "categoria": "Programación",
+        "pregunta": "¿Cuál será la salida del siguiente código? console.log(typeof \"26.53\");",
+	    "respuesta": "String",
+        "incorrecta1": "Number",
+        "incorrecta2": "Float",
+        "incorrecta3": "Double",
+        "imagen": "https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg",
+        "objectFit": "cover"
+
+},
+
+{
+ 	
+        "categoria": "Informatica",
+        "pregunta": "La combinación de teclas Ctrl + V, nos sirve para",
+	    "respuesta": "Pegar",
+        "incorrecta1": "Copiar",
+        "incorrecta2": "Seleccionar",
+        "incorrecta3": "Cortar",
+        "imagen": "https://d226j30kfvtaz7.cloudfront.net/img/article/que-es-la-arquitectura-informatica.webp",
+        "objectFit": "cover"
+
+}
+
+]
